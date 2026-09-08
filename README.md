@@ -31,8 +31,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-##🔴** License**
+#### 🔴 **License**
 
-This Project Is Licensed Under [M̲I̲T̲ L̲i̲c̲e̲n̲s̲e̲](L̲I̲C̲E̲N̲S̲E̲.You Are Free To Use, Modify, and Share This Project with proper attribution.
+This Project Is Licensed Under [MIT License](LICENSE).You Are Free To Use, Modify, and Share This Project with proper attribution.
 
 
